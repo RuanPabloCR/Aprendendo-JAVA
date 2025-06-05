@@ -35,5 +35,8 @@ public class Animal {
     public void setCor(String cor) {
         this.cor = cor;
     }
+    public void correr(){
+        System.out.println("O animal esta correndo...");
+    }
     
 }

@@ -4,5 +4,6 @@ public class Program {
         Leao leao = new Leao("Simba", 5, 190.5, "Amarelo");
         System.out.println("Nome: " + leao.getNome());
         leao.rugir();
+        
     }
 }
